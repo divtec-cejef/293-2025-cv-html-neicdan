@@ -11,26 +11,4 @@ body {
     background-color: whitesmoke;
 }
 
-img {
-    max-width: 100%;
-    height: auto;
-    width: auto;
-}
 
-a {
-    color: orange;
-    text-decoration: none;
-}
-
-.avatar {
-    max-width: 20px;
-}
-
-
-
-
-
-
-a:hover {
-    color: darkmagenta;
-}
