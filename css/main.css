@@ -18,12 +18,12 @@ img {
 }
 
 a {
-    color: orange;
+    color: firebrick;
     text-decoration: none;
 }
 
 .avatar {
-    max-width: 20px;
+    max-width: 10px;
 }
 
 
