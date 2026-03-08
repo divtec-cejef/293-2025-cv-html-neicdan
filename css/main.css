@@ -8,7 +8,7 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: darkblue;
-    background-color: whitesmoke;
+    background-color: dark;
 }
 
 img {
@@ -24,10 +24,6 @@ a {
 
 .avatar {
     max-width: 10px;
-}
-
-body {
-    background-color: black;
 }
 
 
